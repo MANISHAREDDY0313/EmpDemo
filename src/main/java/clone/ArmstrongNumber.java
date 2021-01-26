@@ -1,5 +1,5 @@
 package com.reg.interview_excercise;
-
+//AMSTRONG PROGRAM
 public class ArmstrongNumber {
 
 	static void armstrong(int num) {
