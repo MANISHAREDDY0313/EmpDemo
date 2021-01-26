@@ -2,7 +2,7 @@ package com.reg.interview_excercise;
 
 import java.util.Arrays;
 
-public class AnagramStrings {
+public class AnagramStrings {// AnagramStrings
 
 	public static boolean anagramCheck(String str1, String str2) {
 
