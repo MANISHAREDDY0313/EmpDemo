@@ -1,6 +1,6 @@
 package com.reg.interview_excercise;
 //AMSTRONG PROGRAM
-public class ArmstrongNumber {
+public class ArmstrongNumber { //AMSTRONG PROGRAM
 
 	static void armstrong(int num) {
 		int newNum = 0, remainder, temp;
